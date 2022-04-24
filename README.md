@@ -1,5 +1,5 @@
 ![Yumeko](https://user-images.githubusercontent.com/83945131/164966360-11eeec65-5a1b-4b26-b22f-b55e78d5e74d.jpg)
-👋 Konichiwa, Ngoc Linh desu
+👋 Konnichiwa, Ngoc Linh desu
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
