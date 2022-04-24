@@ -1,9 +1,8 @@
 ![Yumeko](https://user-images.githubusercontent.com/83945131/164966360-11eeec65-5a1b-4b26-b22f-b55e78d5e74d.jpg)
-
 - 👋 Hi, I’m Ngoc Linh
-- 👀 I’m interested in U   
-- 🌱 I’m currently learning ever thing about U
-- 💞️ I’m looking to collaborate on U, of course
+- 👀 I’m interested in gambling
+- 🌱 I’m currently learning gambling
+- 💞️ I’m looking to collaborate on Yumeko
 - 📫 How to reach me
 <div align="center">
   <a href="https://www.facebook.com/hi.ngoclinhdesu/" target="blank">
