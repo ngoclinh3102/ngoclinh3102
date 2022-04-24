@@ -1,7 +1,6 @@
 ![Yumeko](https://user-images.githubusercontent.com/83945131/164966360-11eeec65-5a1b-4b26-b22f-b55e78d5e74d.jpg)
 👋 Konichiwa, Ngoc Linh desu
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
   <a href="#" title="ngoclinh3102">
